@@ -1,0 +1,19 @@
+{
+  "name": "angular-bootstrap-datetimepicker-directive",
+  "description": "Forked version from diosney/angular-bootstrap-datetimepicker-directive substantially to add a package.json and allow the dependency to be managed through npm.",
+  "version": "0.1.3",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ebotean/angular-bootstrap-datetimepicker-directive.git"
+  },
+  "keywords": [],
+  "author": "Eduardo Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ebotean/angular-bootstrap-datetimepicker-directive/issues"
+  },
+  "homepage": "https://github.com/ebotean/angular-bootstrap-datetimepicker-directive"
+}
